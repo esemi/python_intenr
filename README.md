@@ -1,7 +1,7 @@
-# python_intern
+Тестовое задание на python-стажёра в [semrush](https://semrush.com/) 2020
 ---
 
-## requirements
+### requirements
 
 - python 3.9
 - В изначальном коде менять можно *всё*, вплоть до структуры файлов. 
@@ -10,7 +10,7 @@
 - Решение выложить через fork/копию/etc репозитория на github
 
 
-## TODO
+### TODO
 
 - реализовать функцию [is_alive_host](./app.py)
 
